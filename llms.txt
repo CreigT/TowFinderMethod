@@ -1,0 +1,21 @@
+# TowFinder Method
+
+TowFinder Method is an informational routing tool that helps people find the appropriate local path after a vehicle is towed and browse nearby official public vehicle-auction resources.
+
+Website: https://towfinder-method.vercel.app/
+
+## Core pages
+- Home: https://towfinder-method.vercel.app/
+- Car got towed guide: https://towfinder-method.vercel.app/car-got-towed/
+- Vehicle auction guide: https://towfinder-method.vercel.app/vehicle-auctions/
+- FAQ: https://towfinder-method.vercel.app/faq/
+
+## Key answers
+- TowFinder Method does not tow vehicles and is not a government agency.
+- It helps users identify the correct local towing, police, parking, or impound resource.
+- Some local systems may support searches by license plate, VIN, or other vehicle details.
+- Public vehicle auctions may be operated by cities, counties, police departments, fleet agencies, or contracted auction companies.
+- Auction requirements, towing fees, release requirements, bidder eligibility, and vehicle status must be verified with the official source.
+- No account is required to begin using TowFinder Method.
+
+Sponsored by CREIGNIFICENT LLC.
