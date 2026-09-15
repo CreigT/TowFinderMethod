@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://towfinder-method.vercel.app/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://towfinder-method.vercel.app/car-got-towed/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://towfinder-method.vercel.app/vehicle-auctions/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://towfinder-method.vercel.app/faq/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://towfinder-method.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/car-got-towed/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/lapd-impound/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/fontana-impound/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/san-bernardino-impound/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/riverside-impound/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/chp-freeway-tow/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/auctions/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/vehicle-auctions/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://towfinder-method.vercel.app/faq/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
